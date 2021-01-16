@@ -9,9 +9,11 @@
 /coverage
 
 # production
-build
+
 /src
+src
 /public
+public
 package.json
 package-lock.json
 README.md
